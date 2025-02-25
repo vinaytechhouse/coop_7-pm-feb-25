@@ -1,0 +1,18 @@
+--Link to Download and Installation steps for SQL Server 2019 developer edition.
+SQL Server Software Installation Processs
+==========================================
+
+--To download SQL Server 2019 Developer Version Software 
+1. https://www.tektutorialshub.com/sql-server/how-to-download-and-install-sql-server-2019/#download-sql-server-2019
+
+--To download SQL Server Management Studio (SSMS)
+2. https://www.tektutorialshub.com/sql-server/how-to-download-and-install-sql-server-management-studio/
+--(Download SSDT for Visual Studio 2017 (15.9.10) Step#3 and 4
+3. https://visualstudio.microsoft.com/downloads/
+
+4. https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver15 
+
+--(for AdventureWorks2019 and AdventureWorksDW2019 sample databases for tranining)
+5. https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+--Below Links helps us in fixing Visual Studio for SSDT issues
+6. https://en.dirceuresende.com/blog/como-corrigir-erro-na-instalacao-do-sql-server-data-tools-ssdt-2017-setup-failed-incorrect-function-0x80070001/ (to fix any issues raise during installation of SSDT)
