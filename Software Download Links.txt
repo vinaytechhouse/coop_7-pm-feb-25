@@ -1,5 +1,8 @@
+
+New links after 2025-01-01
+
 --Link to Download and Installation steps for SQL Server 2019 developer edition.
-SQL Server Software Installation Processs
+SQL Server Software Installation Process
 ==========================================
 
 --To download SQL Server 2019 Developer Version Software 
